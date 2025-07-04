@@ -1,4 +1,4 @@
-# 🧠 MiniRedis (Java Redis Clone)
+# 🧠 MiniRedis 
 
 **MiniRedis is a lightweight, in-memory key-value store built in Java, simulating basic Redis functionalities like `SET`, `GET`, and key expiration. It’s a simple command-line tool for understanding how in-memory databases work under the hood.**
 
